@@ -10,6 +10,8 @@ Getting funds/donations has a difficult task for the people in need.
 Many a time, people require urgent donation and for that they need to reach out as many people as possible in a very less time in search of donors. 
 This donation website will bridge the gap between these needy people and donors. 
 
+![ScreenShot](/screenshots/Screenshot (836).png)
+
 ## Installation
 To run locally, do the usual:
 1. Clone the repository::
