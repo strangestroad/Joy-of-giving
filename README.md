@@ -11,6 +11,9 @@ Many a time, people require urgent donation and for that they need to reach out 
 This donation website will bridge the gap between these needy people and donors. 
 
 ![ScreenShot](https://github.com/strangestroad/Joy-of-giving/blob/master/screenshots/Screenshot%20(836).png)
+![ScreenShot](https://github.com/strangestroad/Joy-of-giving/blob/master/screenshots/Screenshot%20(837).png)
+![ScreenShot](https://github.com/strangestroad/Joy-of-giving/blob/master/screenshots/Screenshot%20(850).png)
+![ScreenShot](https://github.com/strangestroad/Joy-of-giving/blob/master/screenshots/Screenshot%20(868).png)
 
 ## Installation
 To run locally, do the usual:
